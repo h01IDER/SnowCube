@@ -29,10 +29,7 @@ EMOTIONS
 
 IN AIR
 
-![Uploading 0707(1)(1).gif…]()
-
-
-Детали робота:
+<img width="426" height="240" alt="0707 (1)(1)" src="https://github.com/user-attachments/assets/b09334ab-508b-4f67-8205-bdc9b1a42711" />
 
 ## 🛠 Hardware
 
@@ -46,56 +43,33 @@ IN AIR
 - 18650 battery pack + BMS
 - LM2596 Buck Converter
 - Speaker
+- charging connector
+
+## ELECTRONIC CIRCUIT
+
+<img width="1016" height="732" alt="image" src="https://github.com/user-attachments/assets/53ffdde6-5a43-4cc2-8896-c9517a25389e" />
 
 
+## 🖨 3D Printed Parts
 
-Детали робота:
-
--Главный корпус
+- Main body
 <img width="746" height="721" alt="image" src="https://github.com/user-attachments/assets/8d00e45b-6873-4eb7-bfe7-873d258ca2f0" />
 
--Перегородка второго этажа
+- Second Floor
 <img width="1228" height="754" alt="image" src="https://github.com/user-attachments/assets/fdfed8fe-5c93-4367-b1f3-e9e52465261b" />
 
--Диски колес(поверх надевается шина вылитая из силикона)
-<img width="1009" height="707" alt="image" src="https://github.com/user-attachments/assets/0136d088-ae24-47df-9365-d3dfbdd01f18" />
-
--Крышка корпуса
+- Top cover
 <img width="1249" height="741" alt="image" src="https://github.com/user-attachments/assets/92854619-5f07-4938-b214-31712918f880" />
 
--Обод от наушников
+- Headphone rim
 <img width="1084" height="743" alt="image" src="https://github.com/user-attachments/assets/401b1c63-51ed-485c-bb6f-22008542e8be" />
 
--Крышка от динамика
+- Speaker cover
 <img width="1075" height="690" alt="image" src="https://github.com/user-attachments/assets/d53f43f6-1360-4de3-bbe0-436e25fdfd19" />
 
--Нижние крышки для ИК датчиков
+- Wheel rims (a silicone-molded tire is placed on top)
+<img width="1009" height="707" alt="image" src="https://github.com/user-attachments/assets/0136d088-ae24-47df-9365-d3dfbdd01f18" />
+
+- Lower covers for IR sensors
 <img width="1406" height="740" alt="image" src="https://github.com/user-attachments/assets/05d07419-b861-44e9-96d3-a1b0b129a0d2" />
-
-Компоненты робота:
-
--2 мотора GA12-N20	
-
--Драйвер моторов MX1508	
-
--2 ИК-датчика TCRT5000	
-
--MP3-плеер DFPlayer Mini
-
--3 сенсорные кнопки TTP223
-
--Светодиодная адресная матрица 8×8 WS2812	
-
--BMS-плата
-
--Аккумуляторная сборка 18650	
-
--Arduino Nano
-
--Динамик XDEC 52Y4-T16NJ20	
-
--Понижающий DC-DC преобразователь LM2596S	
-
--Разъем питания DC	
-
 
