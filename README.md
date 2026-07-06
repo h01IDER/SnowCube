@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/47bc361c-1604-4be4-ba08-740a8cfed91a"  width="100"/>
+  <img src="https://github.com/user-attachments/assets/47bc361c-1604-4be4-ba08-740a8cfed91a"  width="1000"/>
 </div>
 
 # SnowCube
