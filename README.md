@@ -15,6 +15,40 @@ An autonomous companion robot designed to bring joy through expressive behavior,
 - 🤖 Autonomous roaming mode with random sounds and movement
 - 🔋 Battery level indicator displayed on the face
 
+## How it works
+
+The robot continuously monitors the touch sensors and infrared sensors. It reacts to user interaction with different facial expressions and sound effects while preventing itself from falling from edges. During idle mode it enters an autonomous behavior loop where it randomly moves around and plays sounds.
+
+ROBOT TURN ON
+
+<img width="426" height="240" alt="0707" src="https://github.com/user-attachments/assets/fa6053ad-8b16-4e5e-92b2-8e1726da5116" />
+
+EMOTIONS
+
+<img width="426" height="240" alt="0707 (1)(1)" src="https://github.com/user-attachments/assets/eef9f367-591e-4929-8eb4-9ecedfdabc05" />
+
+IN AIR
+
+![Uploading 0707(1)(1).gif…]()
+
+
+Детали робота:
+
+## 🛠 Hardware
+
+- Arduino Nano
+- 2× GA12-N20 motors
+- MX1508 motor driver
+- DFPlayer Mini
+- WS2812 8×8 LED Matrix
+- 3× TTP223 capacitive touch sensors
+- 2× TCRT5000 infrared sensors
+- 18650 battery pack + BMS
+- LM2596 Buck Converter
+- Speaker
+
+
+
 Детали робота:
 
 -Главный корпус
