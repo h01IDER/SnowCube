@@ -6,19 +6,14 @@
 An autonomous companion robot designed to bring joy through expressive behavior, sounds, and interactive responses.
 
 
-Суть проекта:
-автономный робот разработанный на арудино нано, сделан для доставления радости
+## ✨ Features
 
-возможности робота:
--Реагирует на прикосновения, в определенных зонах
-
--Издает разные записаные в зависимости от действий(можно менять звуки)
-
--Понимает где пропасть а где поверхность
-
--Режим спокойствия, в котором робот начинает двигатся сам по себе и издает рандомные звуки
-
--Отображение процента заряда на лице
+- 🤚 Touch-sensitive interactions using capacitive sensors
+- 😊 Animated facial expressions on an 8×8 LED matrix
+- 🔊 Custom sound effects (fully replaceable)
+- 🚧 Edge detection to avoid falling
+- 🤖 Autonomous roaming mode with random sounds and movement
+- 🔋 Battery level indicator displayed on the face
 
 Детали робота:
 
