@@ -1,5 +1,7 @@
 # SnowCube
-автономный робот, который катается и тебя жеска радует
+An autonomous companion robot designed to bring joy through expressive behavior, sounds, and interactive responses.
+
+<img width="400" height="225" alt="эдит (1)" src="https://github.com/user-attachments/assets/47bc361c-1604-4be4-ba08-740a8cfed91a" />
 
 Суть проекта:
 автономный робот разработанный на арудино нано, сделан для доставления радости
