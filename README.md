@@ -29,7 +29,7 @@ EMOTIONS
 
 IN AIR
 
-<img width="426" height="240" alt="0707 (1)(1)" src="https://github.com/user-attachments/assets/b09334ab-508b-4f67-8205-bdc9b1a42711" />
+<img width="426" height="240" alt="0707(1))" src="https://github.com/user-attachments/assets/ed4c9b61-93c7-45cb-9d7a-0734a221540e" />
 
 ## 🛠 Hardware
 
