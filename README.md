@@ -11,4 +11,13 @@
 -Режим спокойствия, в котором робот начинает двигатся сам по себе и издает рандомные звуки
 -Отображение процента заряда на лице
 
+Детали робота:
+-Главный корпус
 <img width="746" height="721" alt="image" src="https://github.com/user-attachments/assets/8d00e45b-6873-4eb7-bfe7-873d258ca2f0" />
+-Диски колес(поверх надевается шина вылитая из силикона)
+<img width="1009" height="707" alt="image" src="https://github.com/user-attachments/assets/0136d088-ae24-47df-9365-d3dfbdd01f18" />
+-Крышка корпуса
+<img width="1249" height="741" alt="image" src="https://github.com/user-attachments/assets/92854619-5f07-4938-b214-31712918f880" />
+-Обод от наушников
+<img width="1084" height="743" alt="image" src="https://github.com/user-attachments/assets/401b1c63-51ed-485c-bb6f-22008542e8be" />
+
